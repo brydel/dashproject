@@ -1,6 +1,6 @@
 # DashProject 🚀
 
-![alt text](image.png)
+(./screenshots/image.png)
 
 **DashProject** est une application web moderne et intuitive conçue pour la gestion et la visualisation des données scolaires. Ce projet utilise des technologies modernes pour offrir une expérience utilisateur fluide et performante.
 
@@ -17,7 +17,7 @@
 - **Outils de développement** : Visual Studio Code, Docker
 
 ## 📸 Aperçu 
-![alt text](image-1.png)
+(./screenshots/image-1.png)
 
 ## 🛠️ Installation
 
