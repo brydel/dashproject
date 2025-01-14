@@ -1,0 +1,16 @@
+# Normalize line endings
+* text=auto
+
+# Force specific files to use LF
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.prisma text eol=lf
+*.sql text eol=lf
+
+# Binary files should be treated as-is
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
