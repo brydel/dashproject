@@ -51,8 +51,9 @@ Frontend terminé avec tableau de bord.
 Base de données configurée avec Prisma.
 Backend et API REST en cours de développement.
 Authentification sécurisée.
+Déploiement complet (frontend et backend).
 
-    Déploiement complet (frontend et backend).
+    
 
 🤝 Contributions
 
